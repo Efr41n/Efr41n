@@ -1,11 +1,4 @@
-EFRAIN VAZQUEZ BALLESTEROS DESARROLLADOR DE SOFTWARE
-
-Objective: To collaborate with the technology department in the analysis, development and implementation of information systems, to improve time and quality in software development.
-
-Professional Experience:
-Director of Software Development 2017- Present
-State Coordination of Technologies and Studies
-Department of Public Security
+# MY PROJECTS
 
 2019 - CODICEC5i Direct Commerce to the C5i Center, a mobile application (iOS, Android) that has the purpose of being a direct link with the corporations, to more efficiently service in the event of a crime in commerces. (Angular, Cordova, Ionic Framework 4, Node JS)
 
@@ -21,11 +14,6 @@ Department of Public Security
 
 2017 - Development of the Public Security Human Resources Web application, an administrative tool to control the personnel of the public security secretary in its different movements (High, Low, Admission Changes, etc.). (ASP.NET, MVC5, AJAX, JQuery, Bootstrap, C#, MySQL)
 
-
-Development Deputy Director 2014-2016
-State Coordination of Technologies and Studies
-Department of Public Security
-
 2016 - Development of Web Application for the control of Police Intellectual Capital, controls the courses and training of public security elements, as well as personnel of other corporations, having the ability to print proof of validation of the course with QR code for your check. (ASP.NET, MVC5, AJAX, JQuery, Bootstrap, C#).
 
 2016 - Development of Web Application for the control of public and private security personnel, taking control of the identification card, capturing personal and professional data of the element. (ASP.NET, MVC5, AJAX, JQuery, Bootstrap, C#)
@@ -33,11 +21,6 @@ Department of Public Security
 2015 - Desktop Application Development for Facial Photo Capture and fingertprints for multibiometric control of public and private security personnel. (C# WinForms, Megamatcher (Neurotechnology), SQL Server).
 
 2015 - Development Multibiometric consultation application Megamatcher System (Neurotechnology) in Windows Form environment and programming language C# and SQL Server database.
-
-
-Software Developer 2011-2014
-State Coordination of Technologies and Studies
-Department of Public Security
 
 2014 - SUCOMovil Application Development iOS Version for iPhone and iPad (Objective-C xCode)
 
@@ -47,32 +30,8 @@ Department of Public Security
 
 2011 - Development of web application for request control systems (ASP.NET, C#, Jquery, AJAX, MySQL)
 
-
-Software Developer and technical support 2009-2011
-State Mental Health Service
-Department of Public Health 
-
 2011- Development and implementation of desktop application for the children's center for neurobehavioral development (CIDEN) "Subrogation System". (C#, SQL Server)
 
 2010 - Development of the website of the State Mental Health Service http://www.saludmentalsonora.gob.mx (Apache, MySQL, Joomla)
 
 2009 - Implementation of the “Mental Health Services Administration” System for the Secretary of Mental Health (SESAM) of the state of Sonora. (C#, SQL Server)
-
-Formation
-2010 - Undergraduate University Studies in Information and Communication Technologies, Computer systems area.
-
-Academic training
-2019 - Angular Course - Ionic 4
-2017 - Course Update XCODE9 Swift 4 Development iOS 11 Applications
-2013 - Ethical Hacker Certification Course
-2011 - Training Course xCode (Objective C) Development of iOS Applications
-
-
-Languages
-Spanish, English and basic knowledge of French
-
-
-Skills
-•	Programming languages: POO, C#, MVC, RAZOR, ASP.net, AJAX, JQuery, BOOSTRAP, CSS, HTML5, PHP, Objective C, Swift, Angular, Ionic 4, Node JS
-•	Operating systems: Windows, Ubuntu, Linux, Mac OS, MS Server, Ubuntu Server
-•	Databases: MySQL, SQL Server, Stored Procedure, functions
