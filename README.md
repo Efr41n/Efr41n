@@ -1,4 +1,5 @@
 # Portfolio
+2022 - **Mobile app** *IdSonora* (Android, IOS) Search, location and identification of missing persons Fiscalia General of the Sonora's state (Angular, Ionic 6, Capacitor)
 
 2021 – **Mobile app** *089 Sonora* (Android, IOS) of anonymous complaint of the 089 service of 
 Public Security’s Secretary of the Sonora’s State (Flutter, Dart)
